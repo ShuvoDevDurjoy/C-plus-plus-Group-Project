@@ -1,0 +1,45 @@
+shuvo
+patiya,Chattogram
+570
+Pride and Prejudice       by--> Jane Austen 110
+The Shining               by--> Stephen King 200
+War and Peace             by--> Leo Tolstoy 220
+--------------------------------------------------------
+tonmoy
+Kuril,Dhaka
+558
+Pride and Prejudice       by--> Jane Austen 110
+Crime and Punishment      by--> Fyodor Dostoevsky  205
+Norwegian Wood            by--> Haruki Murakami  215
+--------------------------------------------------------
+shuvo
+Kuril,Dhaka
+338
+The Shining               by--> Stephen King 200
+Pride and Prejudice       by--> Jane Austen 110
+--------------------------------------------------------
+shuvo
+Abdullapur,Dhaka
+180
+Pride and Prejudice       by--> Jane Austen 110
+--------------------------------------------------------
+shuvo
+Kuril,Dhaka
+388
+Pride and Prejudice       by--> Jane Austen 110
+To the Lighthouse         by--> Virginia Woolf  250
+--------------------------------------------------------
+shuvo
+Norda,Dhaka
+274
+Pride and Prejudice       by--> Jane Austen 110
+Great Expectations        by--> Charles Dickens  130
+--------------------------------------------------------
+shuvo
+Jamuna_Future_Park,Dhaka
+790
+Pride and Prejudice       by--> Jane Austen 110
+Great Expectations        by--> Charles Dickens  130
+The Shining               by--> Stephen King 200
+The Unproposed Guy        by--> Bhavik Sarkhedi  320
+--------------------------------------------------------
